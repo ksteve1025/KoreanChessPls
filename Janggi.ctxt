@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Janggi()
+comment1.params=
+comment1.target=void\ printBoard()
+comment2.params=
+comment2.target=void\ playGame()
+comment3.params=
+comment3.target=void\ directions()
+comment4.params=
+comment4.target=void\ printPieces()
+comment5.params=
+comment5.target=boolean\ removePiece()
+numComments=6
